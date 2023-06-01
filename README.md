@@ -1,6 +1,6 @@
 # Avochan
 
-[![Avochan Logo](avochan_logo.png)](https://avochan.org)
+[![Avochan Logo](https://cdn.discordapp.com/attachments/841197221578801172/1113933536437731401/svgviewer-png-output_11.png)](https://avochan.org)
 
 Avochan is a vibrant Spanish open-source imageboard platform based on the renowned [vichan](https://github.com/vichan-devel/vichan) source. It provides a dynamic space for users to share and discuss a wide range of topics, connecting with like-minded individuals from around the Spanish-speaking world.
 
