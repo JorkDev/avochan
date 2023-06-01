@@ -49,3 +49,4 @@ favicon.ico
 
 composer.bat
 composer.phar
+*.js
