@@ -46,3 +46,6 @@ favicon.ico
 /static/spoiler.png
 
 /vendor/
+
+composer.bat
+composer.phar
