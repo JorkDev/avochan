@@ -13,13 +13,14 @@
     "email": "rob@websanova.com",
     "url": "http://websanova.com"
   },
-  "homepage" : "http://wpaint.websanova.com",
+  "homepage": "http://wpaint.websanova.com",
   "license": "MIT, GPL",
   "dependencies": {
-    "grunt-contrib-uglify": "",
+    "grunt-contrib-concat": "",
     "grunt-contrib-jshint": "",
     "grunt-contrib-stylus": "",
-    "grunt-contrib-concat": "",
-    "grunt-contrib-watch": ""
+    "grunt-contrib-uglify": "",
+    "grunt-contrib-watch": "",
+    "wPaint": "file:"
   }
 }
